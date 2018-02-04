@@ -1,0 +1,26 @@
+h1{
+    color:darkgoldenrod;
+    size:36px;
+    text-transform:uppercase;
+    background-color: gainsboro;
+    }
+h2{
+    font-size: 30px;
+    color:#0A60B7;
+    background-color: #c7ff86;
+}
+p{
+    font-size: 18px;
+    font-family: " 汉仪良品线简";
+    color: #00b800;
+}
+.main{
+    font-family: "'Microsoft Yahei' Arial", Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+.phrase{
+    line-spacing:80px;
+    text-align: left;
+    word-spacing:2.5em;
+}
